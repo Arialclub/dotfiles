@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jquispeleuridan@gmail.com
+	name = juan quispe
